@@ -61,7 +61,7 @@ devide(ret2, size)
 --displays a comparison of the input and the output, the real part should be equal
 --the imaginary part is non zero (but fairly close) due to several calculations
 --that have been carried out in the FFT
-compare(list2,ret)
+compare(list1,ret2)
 ```
 
 # Licence and Version
